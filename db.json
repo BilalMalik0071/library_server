@@ -1,0 +1,28 @@
+{
+  "signupdata": [
+    {
+      "firstName": "Bilal",
+      "lastName": "Malik",
+      "email": "muhammedbilalmalik0011@gmail.com",
+      "password": "225588",
+      "id": 1
+    },
+    {
+      "firstName": "bilal",
+      "lastName": "suhail;",
+      "email": "bilalmalik123@gmail.com",
+      "password": "123",
+      "id": 2
+    }
+  ],
+  "allbook": [
+    {
+      "title": " Counting Miracles",
+      "coverImage": "https://nicholassparks.com/wp-content/uploads/2024/01/NSparks-9780593449592-Counting-Miracles.jpg",
+      "autherName": " Nicholas Sparks",
+      "published": "24 September 2024",
+      "preface": "From the acclaimed author of The Longest Ride and The Notebook comes an emotional, powerful novel about wondering if we can change—or even make our peace with—the path we’ve taken.",
+      "id": 1
+    }
+  ]
+}
